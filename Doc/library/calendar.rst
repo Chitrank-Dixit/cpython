@@ -290,6 +290,8 @@ interpreted as prescribed by the ISO 8601 standard.  Year 0 is 1 BC, year -1 is
    locale. If this locale includes an encoding all strings containing month and
    weekday names will be returned as unicode.
 
+
+
 .. note::
 
    The :meth:`formatweekday` and :meth:`formatmonthname` methods of these two
